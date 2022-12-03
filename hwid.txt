@@ -22,4 +22,4 @@ HWID: H28-1000-00328-10000-00001-AA021-P00328-G328-L-10000-O0000-000100
 9 - kirysha
 10 - test
 11 - kitaec
-12- test
+12- test - skype
